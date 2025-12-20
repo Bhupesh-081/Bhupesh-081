@@ -1,10 +1,6 @@
-<!-- ===================== -->
-<!-- 👽 ALIEN GITHUB README -->
-<!-- ===================== -->
-
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2500&pause=500&color=00FFD1&center=true&vCenter=true&width=800&lines=FULL+STACK+ROBOTICS+ENGINEER;ROS2+%7C+GAZEBO+%7C+RVIZ2;AI+%7C+ML+%7C+AUTONOMOUS+SYSTEMS;WARNING%3A+NON-HUMAN+DEVELOPER" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2500&pause=500&color=00FFD1&center=true&vCenter=true&width=800&lines=ROBOTICS+ENGINEER;ROS2+%7C+GAZEBO+%7C+RVIZ2;AI+%7C+ML+%7C+AUTONOMOUS+SYSTEMS;WARNING" />
 
   <br><br>
 
