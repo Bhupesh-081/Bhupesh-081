@@ -81,19 +81,16 @@
 
 ### Robotics & Middleware
 <p>
-  <img src="https://img.shields.io/badge/ROS2-0A0FF9?style=for-the-badge&logo=ros&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gazebo-000000?style=for-the-badge&logo=gazebo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RViz2-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/micro--ROS-2E77BC?style=for-the-badge"/>
+ <p> <img src="https://img.shields.io/badge/ROS2-0A0FF9?style=for-the-badge&logo=ros&logoColor=white"/> <img src="https://img.shields.io/badge/Gazebo-000000?style=for-the-badge&logo=gazebo&logoColor=white"/> <img src="https://img.shields.io/badge/RViz2-FF6F00?style=for-the-badge"/> <img src="https://img.shields.io/badge/micro--ROS-2E77BC?style=for-the-badge"/> <img src="https://img.shields.io/badge/Navigation2-6A5ACD?style=for-the-badge"/> <img src="https://img.shields.io/badge/TF2-FF4500?style=for-the-badge"/> <img src="https://img.shields.io/badge/MoveIt2-2E8B57?style=for-the-badge"/> </p>
 </p>
 
 ### AI / ML / Computer Vision
 <p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-5B2EFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-00FFAA?style=for-the-badge"/>
+<p> <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/> <img src="https://img.shields.io/badge/Deep%20Learning-5B2EFF?style=for-the-badge"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/Computer%20Vision-00FFAA?style=for-the-badge"/> <img src="https://img.shields.io/badge/YOLO-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Object%20Detection-8A2BE2?style=for-the-badge"/> <img src="https://img.shields.io/badge/Sensor%20Perception-4682B4?style=for-the-badge"/> </p>
 </p>
+
+### Localization, Mapping & Planning
+<p> <img src="https://img.shields.io/badge/SLAM-228B22?style=for-the-badge"/> <img src="https://img.shields.io/badge/Cartographer-556B2F?style=for-the-badge"/> <img src="https://img.shields.io/badge/AMCL-708090?style=for-the-badge"/> <img src="https://img.shields.io/badge/Path%20Planning-8B0000?style=for-the-badge"/> <img src="https://img.shields.io/badge/A%2A%20%7C%20DWA%20%7C%20RRT-483D8B?style=for-the-badge"/> </p>
 
 ### Programming Languages
 <p>
