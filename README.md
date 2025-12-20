@@ -34,7 +34,7 @@
 
 <td width="33%" align="center">
   <img src="https://img.icons8.com/fluency/96/robot.png"/>
-  <h3>🤖 Autonomous Rover</h3>
+  <h3>Autonomous Rover</h3>
   <p>
     ROS2-based autonomous mobile robot with<br>
     SLAM, Nav2, sensor fusion & real-world deployment
@@ -108,6 +108,9 @@
 </p>
 
 ---
+
+### Control Systems
+<p> <img src="https://img.shields.io/badge/PID%20Control-2F4F4F?style=for-the-badge"/> <img src="https://img.shields.io/badge/Kinematics-191970?style=for-the-badge"/> <img src="https://img.shields.io/badge/Dynamics-4B0082?style=for-the-badge"/> <img src="https://img.shields.io/badge/Motion%20Control-800000?style=for-the-badge"/> </p>
 
 ## Simulation + Control Arsenal
 
