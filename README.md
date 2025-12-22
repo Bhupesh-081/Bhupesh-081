@@ -18,11 +18,7 @@
 
 ---
 
-<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Bhupesh-081&theme=onestar&no-frame=true&column=6"/>
-
-</div>
 
 
 ## About Me
