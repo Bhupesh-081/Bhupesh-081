@@ -129,9 +129,9 @@
 
 ##  GitHub Stats 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhupesh-081&show_icons=true&theme=radical&hide_border=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhupesh-081&theme=radical&hide_border=true" height="180" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhupesh-081&show_icons=true&theme=tokyonight" height="180" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhupesh-081&theme=tokyonight" height="180" alt="streak graph" />
+</div>
 
 
