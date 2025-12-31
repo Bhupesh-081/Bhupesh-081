@@ -130,8 +130,8 @@
 ##  GitHub Stats 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhupesh-081&show_icons=true&theme=tokyonight" height="180" alt="stats graph" />
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhupesh-081&theme=tokyonight" height="180" alt="streak graph" /> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Bhupesh-081&show_icons=true&theme=tokyonight" height="180" alt="stats graph" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhupesh-081&theme=tokyonight" height="180" alt="streak graph" />
 </div>
 
 
