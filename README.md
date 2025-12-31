@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Bhupesh </h1>
 
 <h3 align="center">
- Robotics Engineering | Autonomous Systems |  AI + ML | ROS2
+ Robotics Engineering | Autonomous Systems | ROS2
 </h3>
 
 ---
