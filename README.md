@@ -1,15 +1,3 @@
-<div align="center">
-
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2500&pause=500&color=00FFD1&center=true&vCenter=true&width=800&lines=ROBOTICS+ENGINEER;ROS2+%7C+GAZEBO+%7C+RVIZ2;AI+%7C+ML+%7C+AUTONOMOUS+SYSTEMS" />
-
-  <br><br>
-
-  <img src="https://user-images.githubusercontent.com/74038190/212284068-0b9c6e3a-0a1c-4cfa-b8fd-6d6c5b1bb8f6.gif" width="500"/>
-
-</div>
-
----
-
 <h1 align="center">Hi, I'm Bhupesh </h1>
 
 <h3 align="center">
