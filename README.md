@@ -49,7 +49,6 @@
   <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif"/>
   <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi"/>
-  <img src="https://img.shields.io/badge/Jetson-76B900?style=for-the-badge&logo=nvidia"/>
 </p>
 
 ---
