@@ -1,9 +1,3 @@
-<h1 align="center">Hi, I'm Bhupesh </h1>
-
-<h3 align="center">
- Robotics Engineering | Autonomous Systems | ROS2
-</h3>
-
 ---<h1 align="center">Hi, I'm Bhupesh</h1>
 <h3 align="center">
   Backend Engineering | Distributed Systems | Systems Programming
