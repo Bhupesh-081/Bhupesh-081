@@ -9,7 +9,7 @@
 
 - I build backend systems that are **fast, reliable, and scalable**
 - Comfortable close to the metal — C++, Go, Linux, low-latency design
-- Background in robotics gave me a deep appreciation for **real-time systems, concurrency, and fault tolerance**
+- Background in robotics gave me a deep appreciation for **real-time systems, development to concurrency, and fault tolerance**
 
 ---
 
