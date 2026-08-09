@@ -2,7 +2,26 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=00ADD8&center=true&vCenter=true&repeat=true&width=440&height=45&lines=Bhupesh+Nandardhane;Competitive+Programmer;Open+Source+Contributor;Backend+%26+Robotics" alt="Bhupesh Nandardhane" />
 
-<sub>B.Tech CSE, SGGSIE&T Nanded (2023–2027) · Backend engineer in the making · Go · gRPC · PostgreSQL</sub>
+### 👋 About Me
+
+Hi, my name is **Bhupesh** — a final-year student at **SGGSIE&T**, studying **Computer Science and Engineering**. I'm passionate about how software scales and is managed at production level.
+
+<br/>
+
+**💻 Tech Stack**
+-  **Backend:** Go, gRPC, PostgreSQL
+-  **Languages & Web:** C++, Python, HTML5, CSS3, REST APIs, SQL, GraphQL
+-  **Robotics & Simulation:** ROS 2, Gazebo, RViz, SLAM, Navigation Stack
+-  **Tools:** Git, GitHub, Docker, PlatformIO
+-  I've also worked with hardware-level protocols like **UART, I2C, and SPI** while building embedded systems
+
+<br/>
+
+** Beyond Code**
+- 🎮 Love playing games like **Minecraft** and **Mobile Legends**
+- 🐱 Proud cat owner
+- 💪 Into **calisthenics** and **football**
+- 🎨 Other hobbies include **cooking** and **painting**
 
 <br/><br/>
 
@@ -10,7 +29,7 @@
 
 <br/>
 
-### Tech Stack
+### Tech Stack I have worked with
 
 <img src="https://skillicons.dev/icons?i=go,cpp,c,py,cs,rust,java,kotlin,swift,ruby,php,lua,perl,r,matlab,haskell,ocaml,dart,elixir,docker,kubernetes,aws,gcp,azure,nginx,vercel,netlify,linux,ubuntu,windows,git,github,cmake,wasm,postgres,mysql,mongodb,redis,graphql,tensorflow,pytorch,opencv,latex,regex,ros&perline=15" />
 
