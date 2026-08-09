@@ -50,8 +50,12 @@ Contributing toward LFX Mentorship / GSoC — active on **Meshery**, **KubeEdge*
 
 <img src="https://github-readme-stats-fast.vercel.app/api?username=Bhupesh-081&show_icons=true&title_color=00ADD8&text_color=c9d1d9&icon_color=00ADD8&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" height="165" alt="stats" />&nbsp;<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Bhupesh-081&title_color=00ADD8&text_color=c9d1d9&bg_color=00000000&hide_border=true&layout=compact&langs_count=6" height="165" alt="langs" />
 
+</div>
+
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Bhupesh-081&hide_border=true&background=0d1117&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" width="420" alt="streak" />
+<div align="left">
+
+<img src="https://streak-stats.demolab.com?user=Bhupesh-081&hide_border=false&border_color=00ADD8&border_radius=8&background=0d1117&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" width="420" alt="streak" />
 
 </div>
