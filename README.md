@@ -9,15 +9,21 @@
 <a href="https://leetcode.com/Bhupesh__"><img src="https://img.shields.io/badge/LeetCode-Bhupesh__-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>&nbsp;
 <a href="https://github.com/Bhupesh-081"><img src="https://img.shields.io/badge/GitHub-Bhupesh--081-00ADD8?style=flat-square&logo=github&logoColor=white" /></a>
 
-<br/><br/>
+</div>
+
+<br/>
 
 ### Tech Stack
 
-<img src="https://skillicons.dev/icons?i=go,cpp,c,py,cs,rust,java,kotlin,swift,ruby,php,lua,perl,r,matlab,haskell,ocaml,dart,elixir&perline=10" /><br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,nginx,vercel,netlify,linux,ubuntu,windows,git,github,cmake,wasm&perline=10" /><br/>
+<img src="https://skillicons.dev/icons?i=go,cpp,c,py,cs,rust,java,kotlin,swift,ruby,php,lua,perl,r,matlab,haskell,ocaml,dart,elixir&perline=10" />
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,nginx,vercel,netlify,linux,ubuntu,windows,git,github,cmake,wasm&perline=10" />
+
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,graphql,tensorflow,pytorch,opencv,latex,regex,ros&perline=10" />
 
-<br/><br/>
+<br/>
+
+<div align="center">
 
 ### 🛠️ Featured projects
 
@@ -47,7 +53,11 @@ Contributing toward LFX Mentorship / GSoC — active on **Meshery**, **KubeEdge*
 
 <br/>
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Bhupesh-081&show_icons=true&title_color=00ADD8&text_color=c9d1d9&icon_color=00ADD8&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" height="120" alt="stats" />&nbsp;<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Bhupesh-081&title_color=00ADD8&text_color=c9d1d9&bg_color=00000000&hide_border=true&layout=compact&langs_count=6" height="120" alt="langs" />&nbsp;<img src="https://streak-stats.demolab.com?user=Bhupesh-081&hide_border=true&background=0d1117&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" height="120" alt="streak" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Bhupesh-081&show_icons=true&title_color=00ADD8&text_color=c9d1d9&icon_color=00ADD8&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" height="165" alt="stats" />&nbsp;<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Bhupesh-081&title_color=00ADD8&text_color=c9d1d9&bg_color=00000000&hide_border=true&layout=compact&langs_count=6" height="165" alt="langs" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Bhupesh-081&hide_border=true&background=0d1117&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" width="800" alt="streak" />
 
 <br/><br/>
 
