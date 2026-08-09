@@ -14,11 +14,7 @@
 
 ### Tech Stack
 
-<img src="https://skillicons.dev/icons?i=go,cpp,c,py,cs,rust,java,kotlin,swift,ruby,php,lua,perl,r,matlab,haskell,ocaml,dart,elixir&perline=10" />
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,nginx,vercel,netlify,linux,ubuntu,windows,git,github,cmake,wasm&perline=10" />
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,graphql,tensorflow,pytorch,opencv,latex,regex,ros&perline=10" />
+<img src="https://skillicons.dev/icons?i=go,cpp,c,py,cs,rust,java,kotlin,swift,ruby,php,lua,perl,r,matlab,haskell,ocaml,dart,elixir,docker,kubernetes,aws,gcp,azure,nginx,vercel,netlify,linux,ubuntu,windows,git,github,cmake,wasm,postgres,mysql,mongodb,redis,graphql,tensorflow,pytorch,opencv,latex,regex,ros&perline=15" />
 
 <br/>
 
