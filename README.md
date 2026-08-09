@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=00ADD8&center=true&vCenter=true&repeat=false&width=440&height=45&lines=Bhupesh+Nandardhane" alt="Bhupesh Nandardhane" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=00ADD8&center=true&vCenter=true&repeat=true&width=440&height=45&lines=Bhupesh+Nandardhane;Competitive+Programmer;Open+Source+Contributor;Backend+%26+Robotics" alt="Bhupesh Nandardhane" />
 
 <sub>B.Tech CSE, SGGSIE&T Nanded (2023–2027) · Backend engineer in the making · Go · gRPC · PostgreSQL</sub>
 
