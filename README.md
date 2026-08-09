@@ -2,6 +2,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=00ADD8&center=true&vCenter=true&repeat=true&width=440&height=45&lines=Bhupesh+Nandardhane;Competitive+Programmer;Open+Source+Contributor;Backend+%26+Robotics" alt="Bhupesh Nandardhane" />
 
+</div>
+
 <div align="left">
 👋 About Me
 
@@ -25,11 +27,6 @@ Hi, my name is **Bhupesh**, a final-year student at **SGGSIE&T**, studying **Com
 - 🎨 Other hobbies include **cooking** and **painting**
 
 </div>
-
-<br/><br/>
-
-</div>
-
 <br/>
 
 ### Tech Stack I have worked with
