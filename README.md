@@ -6,7 +6,6 @@
 
 <br/><br/>
 
-<a href="https://leetcode.com/Bhupesh__"><img src="https://img.shields.io/badge/LeetCode-Bhupesh__-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>&nbsp;
 <a href="https://github.com/Bhupesh-081"><img src="https://img.shields.io/badge/GitHub-Bhupesh--081-00ADD8?style=flat-square&logo=github&logoColor=white" /></a>
 
 </div>
