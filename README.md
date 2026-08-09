@@ -48,14 +48,6 @@ Hi, my name is **Bhupesh**, a final-year student at **SGGSIE&T**, studying **Com
 
 </div>
 
-<br/>
-
-### 🌱 Open source
-
-Contributing toward LFX Mentorship / GSoC — active on **Meshery**, **KubeEdge**, and **OpenEverest**, with issues filed against **kubernetes/kubernetes**.
-
-<br/>
-
 ### 🏆 Competitive highlights
 
 - **SIH 2025 Finalist** (300+ teams) — ISRO/Dept. of Space problem statement, lunar rover autonomy
