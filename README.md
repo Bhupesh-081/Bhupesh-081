@@ -54,7 +54,7 @@ Contributing toward LFX Mentorship / GSoC — active on **Meshery**, **KubeEdge*
 
 <br/><br/>
 
-<div align="left">
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Bhupesh-081&hide_border=false&border_color=00ADD8&border_radius=8&background=0d1117&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" width="420" alt="streak" />
 
