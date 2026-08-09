@@ -6,8 +6,6 @@
 
 <br/><br/>
 
-<a href="https://github.com/Bhupesh-081"><img src="https://img.shields.io/badge/GitHub-Bhupesh--081-00ADD8?style=flat-square&logo=github&logoColor=white" /></a>
-
 </div>
 
 <br/>
@@ -48,12 +46,12 @@ Contributing toward LFX Mentorship / GSoC — active on **Meshery**, **KubeEdge*
 
 <br/>
 
-<div align="right">
+<div align="center">
 
 <img src="https://github-readme-stats-fast.vercel.app/api?username=Bhupesh-081&show_icons=true&title_color=00ADD8&text_color=c9d1d9&icon_color=00ADD8&bg_color=00000000&hide_border=true&include_all_commits=true&rank_icon=github" height="165" alt="stats" />&nbsp;<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Bhupesh-081&title_color=00ADD8&text_color=c9d1d9&bg_color=00000000&hide_border=true&layout=compact&langs_count=6" height="165" alt="langs" />
 
-</div>
-
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Bhupesh-081&hide_border=true&background=0d1117&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" width="600" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=Bhupesh-081&hide_border=true&background=0d1117&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" width="420" alt="streak" />
+
+</div>
