@@ -20,6 +20,25 @@ Hi, my name is **Bhupesh**, a final-year student at **SGGSIE&T**, studying **Com
 
 <br/>
 
+**🚀 Open Source Contributions**
+
+**[OpenEverest](https://github.com/openeverest/openeverest)** &nbsp;•&nbsp; **[OpenKruise / agents](https://github.com/openkruise/agents)** &nbsp;•&nbsp; **[KubeStellar / console](https://github.com/kubestellar/console)**
+
+| Project | Pull Request | Status |
+| --- | --- | --- |
+| OpenEverest | [feat(providers): MinIO object-storage provider — PoC](https://github.com/openeverest/openeverest/pull/2948) | PoC submitted |
+| OpenEverest | [feat(plugins): performance-testing plugin PoC (sysbench/PostgreSQL)](https://github.com/openeverest/openeverest/pull/2959) | PoC submitted |
+| OpenEverest | [fix(session): data race between `Allow` and `IncreaseTimeout` in rate limiter](https://github.com/openeverest/openeverest/pull/2881) | ✅ Merged |
+| OpenEverest | [fix(cli): respect `--skip-wizard` flag in `everestctl namespaces update`](https://github.com/openeverest/openeverest/pull/2811) | ✅ Merged |
+| OpenEverest | [Add `-n` shorthand for namespace in `everestctl instance` commands](https://github.com/openeverest/openeverest/pull/2795) | ✅ Merged |
+| OpenKruise (agents) | [Feature/opensandbox API adapter](https://github.com/openkruise/agents/pull/833) | 🔓 Open |
+| OpenKruise (agents) | [docs, api, e2b: clarify pause/resume pod delete/recreate semantics](https://github.com/openkruise/agents/pull/753) | 🔓 Open |
+| OpenKruise (agents) | [docs: add okactl CLI manual link, clean up community section](https://github.com/openkruise/agents/pull/755) | 🔓 Open |
+| KubeStellar (console) | [docs: document sharded coverage artifact aggregation behavior](https://github.com/kubestellar/console/pull/22274) | ✅ Merged |
+| KubeStellar (console) | [fix/modal-safety](https://github.com/kubestellar/console/pull/22258) | ✅ Merged |
+
+<br/>
+
 **Beyond Code**
 - 🎮 Love playing games like **Minecraft** and **Mobile Legends**
 - 🐱 Cat owner
