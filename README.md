@@ -32,6 +32,17 @@ Hi, my name is **Bhupesh**, a final-year student at **SGGSIE&T**, studying **Com
 
 <br/>
 
+</div>
+
+### 🏆 Competitive highlights
+
+- **SIH 2025 Finalist** (300+ teams) — ISRO/Dept. of Space problem statement, lunar rover autonomy
+- **eYRC** — advanced to Stage 2, top 25% of teams
+- **DD Robocon (IIT Delhi)** — All India Rank 12, Abstract Stage
+- **Robocon Captain**, Team RNXG — leading a 15+ member robotics team
+
+<br/>
+
 **Beyond Code**
 - 🎮 Love playing games like **Minecraft** and **Mobile Legends**
 - 🐱 Cat owner
@@ -58,16 +69,7 @@ Hi, my name is **Bhupesh**, a final-year student at **SGGSIE&T**, studying **Com
 | **Autonomous Cleaning Robot** | ROS 2 + Gazebo digital-twin simulation with LiDAR-based SLAM and Nav Stack for collision-free navigation, extended to swarm-level multi-robot scenarios. | ROS 2, Gazebo |
 | **Score Automation System** | ESP32-based real-time scoring framework with debounced GPIO inputs and WebSocket data streaming — cut manual intervention 80% at a national Robo Race event. | ESP32, WebSockets, Embedded C |
 
-</div>
 
-### 🏆 Competitive highlights
-
-- **SIH 2025 Finalist** (300+ teams) — ISRO/Dept. of Space problem statement, lunar rover autonomy
-- **eYRC** — advanced to Stage 2, top 25% of teams
-- **DD Robocon (IIT Delhi)** — All India Rank 12, Abstract Stage
-- **Robocon Captain**, Team RNXG — leading a 15+ member robotics team
-
-<br/>
 
 <div align="center">
 
