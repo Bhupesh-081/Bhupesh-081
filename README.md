@@ -65,9 +65,9 @@ Hi, my name is **Bhupesh**, a final-year student at **SGGSIE&T**, studying **Com
 | Project | What it does | Stack |
 | --- | --- | --- |
 | **HealthPulse** | Concurrent URL health checker — goroutines poll multiple HTTP endpoints in parallel on configurable intervals, backed by a thread-safe in-memory store and a real-time dashboard embedded via `go:embed` into a single binary. | Go |
-| **Autonomous Lunar Habitat Robot** | ROS-based autonomous navigation pipeline with multi-sensor fusion (LiDAR, camera, IMU) for SLAM in GPS-denied environments — SIH 2025 finalist among 300+ teams. | ROS, SLAM, Python |
+| **Autonomous Lunar Habitat Robot** | ROS-based autonomous navigation pipeline with multi-sensor fusion (LiDAR, camera, IMU) for SLAM in GPS-denied environments, SIH 2025 finalist among 300+ teams. | ROS, SLAM, Python |
 | **Autonomous Cleaning Robot** | ROS 2 + Gazebo digital-twin simulation with LiDAR-based SLAM and Nav Stack for collision-free navigation, extended to swarm-level multi-robot scenarios. | ROS 2, Gazebo |
-| **Score Automation System** | ESP32-based real-time scoring framework with debounced GPIO inputs and WebSocket data streaming — cut manual intervention 80% at a national Robo Race event. | ESP32, WebSockets, Embedded C |
+| **Score Automation System** | ESP32-based real-time scoring framework with debounced GPIO inputs and WebSocket data streaming, cut manual intervention 80% at a national Robo Race event. | ESP32, WebSockets, Embedded C |
 
 
 
